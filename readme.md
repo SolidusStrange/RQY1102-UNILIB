@@ -4,10 +4,10 @@ Proyecto desarrollado para la asignatura Ingeniería de Software (RQY1102) de Du
 
 ## Integrantes
 
-* Nombre Integrante 1
-* Nombre Integrante 2
-* Nombre Integrante 3
-* Nombre Integrante 4
+* Ignacio Arntz
+* Andrés Mendoza
+* Simón González
+* José Díaz
 
 ## Descripción
 
