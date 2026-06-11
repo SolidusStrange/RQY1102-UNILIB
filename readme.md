@@ -19,6 +19,7 @@ UNILIB es un Sistema de Gestión Bibliotecaria diseñado para administrar prést
 * EA02: Entregables de la Experiencia de Aprendizaje 02.
 * EA03: Entregables de la Experiencia de Aprendizaje 03.
 * EFT: Entregables de la Evaluación Final.
+* Participacion realizada por Mendozam22
 
 ## Tecnologías y documentación
 
