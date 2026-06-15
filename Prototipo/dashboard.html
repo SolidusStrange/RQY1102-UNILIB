@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - UNILIB</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+    <div class="dashboard">
+
+        <div class="topbar">
+            <h1>UNILIB Dashboard</h1>
+            <button id="logout-button">Cerrar sesión</button>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <i data-lucide="book-open"></i>
+                <h2>523</h2>
+                <p>Libros disponibles</p>
+            </div>
+
+            <div class="stat-card">
+                <i data-lucide="arrow-right-left"></i>
+                <h2>91</h2>
+                <p>Préstamos activos</p>
+            </div>
+
+            <div class="stat-card">
+                <i data-lucide="users"></i>
+                <h2>120</h2>
+                <p>Usuarios registrados</p>
+            </div>
+        </div>
+
+        <div class="actions">
+            <button id="catalog-button">Consultar libros</button>
+        </div>
+
+    </div>
+
+    <footer class="project-footer">
+        RQY1102-UNILIB • DUOC UC
+    </footer>
+
+
+    <script>
+        lucide.createIcons();
+    </script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
